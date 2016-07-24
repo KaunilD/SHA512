@@ -8,8 +8,8 @@ Compilation :
 javac HashValues.java SHA512Utils.java Main.java
 
 Execution : 
-java Main <the path of K80 file>
+<code>java Main the path of K80 file</code>
 e.g in my case :
-java Main /Users/kaunildhruv/Development/java/SHA512/src/K80
+<code>java Main /Users/kaunildhruv/Development/java/SHA512/src/K80</code>
 
 
